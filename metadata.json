@@ -1,0 +1,5 @@
+{
+  "name": "10-Client-Server Architecture",
+  "description": "An interactive educational platform designed to teach the fundamentals of Client-Server architecture through visual simulations, tier diagrams, and traffic scaling scenarios.",
+  "requestFramePermissions": []
+}
